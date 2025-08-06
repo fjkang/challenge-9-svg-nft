@@ -47,8 +47,8 @@ const Home: NextPage = () => {
                   </p>
                   <p>
                     🌟 Use{" "}
-                    <Link href="/loogies" className="underline">
-                      Loogies
+                    <Link href="/mjc" className="underline">
+                      MahJongCoin
                     </Link>{" "}
                     as an example to guide your project. This will provide a solid foundation and inspiration for
                     creating your own dynamic SVG NFTs.
